@@ -1,0 +1,91 @@
+.contact-us {
+    padding: 20px;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .contact-us h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+    color: #ee553b;
+  }
+  
+  .contact-us form {
+    width: 100%;
+    max-width: 500px;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .contact-us form label {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  
+  .contact-us form span {
+    font-size: 1.2em;
+    margin-bottom: 5px;
+  }
+  
+  .contact-us input,
+  .contact-us textarea {
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 10px;
+  }
+  
+  .contact-us button {
+    background-color: #ff6347;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 20px;
+    width: 100%;
+  }
+  
+  .contact-us button:hover {
+    background-color: #ee553b;
+  }
+  
+  .footer {
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .footer p {
+    margin-bottom: 00px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    width: 100%;
+  }
+  
+  .footer-icons {
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+    padding: 20px 0;
+    width: 100%;
+
+  }
+  
+  .footer-icons a {
+    color: #ee553b;
+    margin: 0 50px;
+  }
+  .footer-icons a :hover {
+    color: white;
+    margin: 0 0px;
+  }
+  

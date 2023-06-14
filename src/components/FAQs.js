@@ -45,7 +45,7 @@ function FAQs() {
     },
 
     
-    // add as many FAQs as you like
+    // Can add as many FAQs as we like
   ];
 
   return (

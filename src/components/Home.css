@@ -58,7 +58,7 @@
   
   .card {
     border: 1px solid #ccc;
-    width: calc(100% / 3 - 20px); /* for three cards per row */
+    width: calc(100% / 3 - 20px); 
     padding: 10px;
     box-sizing: border-box;
     text-align: center;

@@ -28,13 +28,13 @@ function Home() {
           <input type="date" placeholder="Date" />
           <select>
             <option value="budget">Budget</option>
-            {/* Add other budget options */}
+            {/* Add budget options */}
           </select>
           <button>Search</button>
         </div>
       </div>
       <div className="home__cards">
-        {/* You can replace this with a map function if you have a list */}
+        {/* We can replace this with a map function if we have a list */}
         <div className="card">
           <img src={image1} alt="Place" />
           <h2>Place Name1</h2>
